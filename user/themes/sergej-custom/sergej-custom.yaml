@@ -1,0 +1,12 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'user://themes/sergej-custom'
+         - 'user://themes/antimatter'
+
+enabled: true
+dropdown:
+  enabled: false

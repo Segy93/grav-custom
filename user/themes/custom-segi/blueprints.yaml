@@ -1,0 +1,18 @@
+name: Custom Segi
+slug: custom-segi
+type: theme
+version: 0.1.0
+description: Custom tema Sergej Sjekloca
+icon: rebel
+author:
+  name: Sergej
+  email: segy993@gmail.com
+homepage: https://github.com/41484839/grav-theme-custom-segi
+demo: http://demo.yoursite.com
+keywords: grav, theme, etc
+bugs: https://github.com/41484839/grav-theme-custom-segi/issues
+readme: https://github.com/41484839/grav-theme-custom-segi/blob/develop/README.md
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }

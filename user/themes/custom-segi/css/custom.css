@@ -1,0 +1,19 @@
+#body {
+    background-color: #90EE90;
+    padding-left: 220px;
+}
+
+.logo {
+    max-height: 45px;
+}
+
+.sidebar {
+    background-color: #fff;
+    min-height: 300px;
+    left: 0;
+    padding: 1rem;
+    padding-top: 4rem;
+    position: fixed;
+    top: 0;
+    width: 200px;
+}

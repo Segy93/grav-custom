@@ -1,0 +1,12 @@
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - 'user://themes/custom-segi'
+         - 'user://themes/antimatter'
+
+enabled: true
+dropdown:
+  enabled: true
